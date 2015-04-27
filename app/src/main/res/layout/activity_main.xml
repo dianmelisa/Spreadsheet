@@ -37,7 +37,7 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
         android:text="jumlah"
-        android:focusable="false"
+
         />
 
     <EditText
@@ -71,7 +71,7 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
         android:text="jumlah"
-        android:focusable="false"/>
+        />
 
     <EditText
         android:layout_width="wrap_content"
@@ -83,7 +83,7 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:text="jumlah"
-        android:focusable="false"/>
+        />
 
     <EditText
         android:layout_width="wrap_content"
@@ -94,7 +94,7 @@
         android:layout_below="@+id/spread_2_1"
         android:layout_centerHorizontal="true"
         android:text="jumlah"
-        android:focusable="false"/>
+        />
 
     <EditText
         android:layout_width="wrap_content"
@@ -106,7 +106,7 @@
         android:layout_alignLeft="@+id/spread_2_3"
         android:layout_alignStart="@+id/spread_2_3"
         android:text="total"
-        android:focusable="false"/>
+        />
 
     <Button
         android:layout_width="wrap_content"
